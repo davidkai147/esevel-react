@@ -1,0 +1,23 @@
+.box {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+.box-height {
+  height: 50%;
+}
+
+.box__left-button {
+  width: 50%;
+  float: left;
+  cursor: pointer;
+}
+
+.box__right-button {
+  width: 50%;
+  float: right;
+  cursor: pointer;
+}
